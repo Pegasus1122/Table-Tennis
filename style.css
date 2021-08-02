@@ -84,3 +84,14 @@ scroll-behavior: smooth;
 a{
 text-decoration: none;
 }
+img:hover{
+scale:(0.9)
+}
+#apple{
+width:300px;
+height:300px;
+}
+#mom{
+width:300px;
+height:300px''
+}
